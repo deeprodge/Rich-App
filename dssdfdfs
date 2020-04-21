@@ -1,0 +1,13 @@
+user.email=jayrodge@live.com
+user.name=Jay Rodge
+credential.helper=cache --timeout=3600
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/deeprodge/Rich-App.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+user.name=deeprodge
+user.email=deeprodge14@gmail.com
